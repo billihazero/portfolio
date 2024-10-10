@@ -29,11 +29,9 @@
 
 ### **Back-end**
 - Java 17
-- Spring Boot 3.3.2
-- Spring Security 6.2.1
+- Spring Boot 3.2.4
 - JPA
-- Redis 3.0.504
-- JWT 0.12.3 
+- MyBatis 3.0.3
 
 ### **Database**
 - MySQL 8.0.36
