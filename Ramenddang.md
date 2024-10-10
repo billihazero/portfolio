@@ -2,11 +2,9 @@
 >  라멘 맛집 조회 및 추천 커뮤니티 플랫폼
 <br/>
 
-## 1. 제작기간 & API
+## 1. 제작기간
 개발기간 
 - 24.09.21 ~ 24.10.05 (BE완료)
-- [API명세](https://documenter.getpostman.com/view/33571279/2sAXxMfZ1g#1b0c4a74-d811-437f-817b-b98c74322742)
-<br/>
 
 ## 2. 사용기술
 ### **Back-end**
@@ -24,8 +22,12 @@
 - AWS EC2
 <br/>
 
-## 3. ERD 설계
+## 3. ERD 설계 & API 명세
 ![erdfile](/images/image.png)
+<br/>
+
+
+[API명세](https://documenter.getpostman.com/view/33571279/2sAXxMfZ1g#1b0c4a74-d811-437f-817b-b98c74322742)
 <br/>
 
 ## 4. 핵심 기능
