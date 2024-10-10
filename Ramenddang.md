@@ -27,7 +27,7 @@
 <br/>
 
 
-[API명세](https://documenter.getpostman.com/view/33571279/2sAXxMfZ1g#1b0c4a74-d811-437f-817b-b98c74322742)
+[API명세 확인하기](https://documenter.getpostman.com/view/33571279/2sAXxMfZ1g#1b0c4a74-d811-437f-817b-b98c74322742)
 <br/>
 
 ## 4. 핵심 기능
